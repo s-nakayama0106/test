@@ -1,8 +1,2 @@
-sub hello
-
-
-master !!
-sub!!!!!!!!!!
-
-test2
+これはテストです。
 
